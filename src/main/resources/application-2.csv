@@ -1,0 +1,6 @@
+application_name,user_id,first_name,last_name,role
+Application 2,jdoe,John,Doe,User
+Application 2,arose,Alan,Rose,User
+Application 2,arose,Alan,Rose,Admin
+Application 2,rbrown,Ryan,Brown,User
+Application 2,rbrown,Ryan,Brown,Admin
